@@ -1,3 +1,3 @@
 1、自定义TabBarController、NavigationController 简单使用（复用）
  
-![效果](https://raw.githubusercontent.com/lulushen/SwiftNotes/master/image/1.png)
+![效果](https://github.com/lulushen/SwiftNotes/blob/master/image/1.png)
